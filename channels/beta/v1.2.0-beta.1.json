@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "channel": "beta",
+  "version": "1.2.0-beta.1",
+  "tag": "v1.2.0-beta.1",
+  "asset": {
+    "name": "YO4X.exe",
+    "url": "https://github.com/YoForex005/yo4x-desktop-releases/releases/download/v1.2.0-beta.1/YO4X.exe",
+    "sha256": "341ee9f2c45bd5f251f3ca21315e991555c986f6d0434ba6bd4bdc4394faa300",
+    "sizeBytes": 250242391
+  },
+  "source": {
+    "repository": "YoForex005/Yo4x-desktop",
+    "revision": "a66628e4a318c0e7cca08ded94ef12e64cec8569",
+    "runId": "34966501600"
+  },
+  "publishedAt": "2026-09-15T12:05:19.1290987Z"
+}
