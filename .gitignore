@@ -1,0 +1,28 @@
+# This repository contains release metadata only. Publish executable assets through
+# GitHub Releases, not by committing them to Git.
+*.exe
+*.msi
+*.msix
+*.zip
+*.nupkg
+*.snupkg
+
+# Secrets, signing material, and local configuration must never be committed.
+*.pfx
+*.p12
+*.pem
+*.key
+*.crt
+*.cer
+*.env
+*.env.*
+secrets.*
+
+# Build output, logs, and local tooling state.
+bin/
+obj/
+artifacts/
+logs/
+*.log
+.vs/
+.idea/
